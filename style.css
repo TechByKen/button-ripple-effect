@@ -4,8 +4,14 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: beige;
+  background-color: rgb(87, 87, 70);
   font-family: sans-serif;
+}
+
+h1 {
+  position: relative;
+  margin: 20px;
+  color: white;
 }
 
 .btn {
